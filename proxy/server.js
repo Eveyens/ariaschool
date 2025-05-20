@@ -21,8 +21,10 @@ app.get('/', (req, res) => {
                 <a href="/flashcards" style="font-size:1.5rem; margin:2rem; color:#fff; background:#28a745; padding:0.7rem 2rem; border-radius:6px; text-decoration:none;">Flash Cards</a>
             </p>
             <p style="color:#b22222; font-size:1rem; max-width:600px; margin:2rem auto 0 auto;">
-                Il s'agit d'une version bêta ouverte du Mercredi 19 Mai 2025 au Mercredi 26 Mai 2025 de 9h à 23h sauf jours de partiel, certaines erreurs peuvent survenir. Si une erreur apparaît avec le webhook, réessayez deux fois. Si l'erreur persiste, c'est que je ne suis pas en ligne.
+                Il s'agit d'une version bêta ouverte du Mercredi 21 Mai 2025 au Mercredi 28 Mai 2025 de 9h à 23h sauf jours de partiel, certaines erreurs peuvent survenir. Si une notif d'erreur apparaît avec le webhook, réessayez deux fois. Si l'erreur persiste, c'est que je ne suis pas en ligne.
             </p>
+            <h3 style="color:#888; font-size:1.1rem; margin-top:3rem;">Par Alexandre Piron - MRS</h3>
+            <p style="color:#888; font-size:1rem; margin-top:1rem;">Avec la participation de Jack, Lison et Diego</p>
         </body>
         </html>
     `);
